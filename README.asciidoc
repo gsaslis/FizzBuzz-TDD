@@ -1,0 +1,13 @@
+= TDD Kata @ Agile Greece Summit
+
+The purpose of this code kata is an introduction to the basic flow of TDD.
+
+To do this, we will use a slight variation of the `FizzBuzz` problem:
+
+----
+Write a "fizzBuzz" method that accepts a number as input and returns it
+as a String.
+BUT for multiples of three print "Fizz" instead of the number and
+for the multiples of five print "Buzz".
+For numbers which are multiples of both three and five print "FizzBuzz".
+----
